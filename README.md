@@ -1,6 +1,6 @@
 # Rui Yang's Website
 
-# Press the green button could move the main div.
+# Press the green arrow button could move the main div.
 
 Image of my Portfolio is my own
 
